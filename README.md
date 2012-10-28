@@ -1,4 +1,3 @@
-jquery-url
-==========
+# $.url()
 
-$.url() - A simple, lightweight url parser for jQuery
+This project has been moved to (js-url)[https://github.com/websanova/js-url]
